@@ -1,1 +1,4 @@
 # 04 - O QUE É VAGRANT E SUAS VANTAGENS
+
+Depois de entendermos o que é a virtualização de sistemas virtuais surge uma questão: imagine que temos um ambiente em que vamos ter várias máquinas virtuais e que precisamos sempre testar algum recurso ou uma aplicação. E se tivéssemos que sempre instalar uma Virtual Machine (VM) com um Sistema Operacional completo do zero sempre que surgir uma demnada dessas ? Complicado e demorado não é mesmo ? <br></br>
+Foi pensando nisso que surgiu o Vagrant que começou como um projeto pessoal por Mitchell Hashimoto em janeiro de 2010. O **Vagrante** nada mais é do quem software que serve para automatizar a criação das VMs e para isso, foram criados dois repositórios onde ficam situadas essas VMs. Agora as vms são chamadas de **boxes**. O primeiro repositório fica em: https://www.vagrantbox.es/
