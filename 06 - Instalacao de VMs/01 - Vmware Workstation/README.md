@@ -84,3 +84,5 @@ Bom até aqui criamos a nossa Máquina Virtual de fato. Porém, agora é como to
           <td width="33%"></td>
       </tr>
 </table>
+
+Aqui eu fiz uma instalação básica do Debian 12 e não entrarei mais a fundo nos detalhes pois o intuito aqui não é esse. Espero que aqui que nunca tinha visto esse tipo de instalação tenha aprendido e que já sabe possa ter recordado.
