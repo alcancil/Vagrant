@@ -26,6 +26,6 @@ Bom o processo não é muito complicado. Aqui vale ressaltar que vou utilizar o 
       <tr>
           <td width="33%"><img src="Imagens/14.png"></img></td>
           <td width="33%"><img src="Imagens/15.png"></img></td>
-          <td width="33%"><img src="Imagens/16.png"></img></td>
+          <td width="33%"></td>
       </tr>
 </table>
