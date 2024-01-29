@@ -13,17 +13,6 @@ Bom o processo não é muito complicado. Aqui vale ressaltar que vou utilizar o 
           <td width="33%"><img src="Imagens/5.png"></img></td>
           <td width="33%"><img src="Imagens/6.png"></img></td>
       </tr>
-      <tr>
-          <td width="33%"><img src="Imagens/7.png"></img></td>
-          <td width="33%"><img src="Imagens/8.png"></img></td>
-          <td width="33%"><img src="Imagens/9.png"></img></td>
-      </tr>
-      <tr>
-          <td width="33%"><img src="Imagens/10.png"></img></td>
-          <td width="33%"><img src="Imagens/11.png"></img></td>
-          <td width="33%"><img src="Imagens/12.png"></img></td>
-      </tr>
-      </tr>
 </table>
 
 Bom até aqui criamos a nossa Máquina Virtual de fato. Porém, agora é como todo computador físico. Não temos um sistema operacional instalado. Então vamos instalar o Debian 12. Vamos ligar nossa Vm dizendo ao Virtualbox onde se encontra nossa mídia de instalação e para dar o boot por ela. <br></br>
