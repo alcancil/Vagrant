@@ -1,4 +1,4 @@
-# 01 - Vmware Workstation
+# 02 - Oracle VirtualBox
 
 Bom o processo não é muito complicado. Aqui vale ressaltar que vou utilizar o Hypervisor do Tipo 02 e, portanto, como já explicado ele é instalado sobre um host com um SO completo. Então para efeitos de organização, eu recomendo sempre escolher uma pasta em disco e instalar a VM dentro dela. Ai, cada um pode organizar da melhor maneira que convier <br></br>
 
